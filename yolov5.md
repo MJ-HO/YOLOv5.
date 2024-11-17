@@ -74,7 +74,7 @@ In the case of fine damage, it is difficult to accurately recognize it separatel
 ## Image Acquisition Method # 영상 취득 방법 :
 youtube, pexels.com 에서 영상을 다운받아 취득하였다. <br><br>
 
-I downloaded the video from pexels.com and acquired it.<br><br>
+I downloaded the video from YouTube, pexels.com and acquired it.<br><br>
 https://www.youtube.com/shorts/iPw-8pY_pGM<br>
 https://www.youtube.com/shorts/-EPA20KTQfM<br>
 https://www.pexels.com/ko-kr/video/4569535/<br>
