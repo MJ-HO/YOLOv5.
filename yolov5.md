@@ -1,4 +1,3 @@
-![13](https://github.com/user-attachments/assets/c76e23dd-402e-4a54-835d-44886dbc5bdd)
 # YOLO v5 <hr>
 ## Title # 주제
 YOLOv5를 이용한 박스 인식과 분류<br><br>
