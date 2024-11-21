@@ -174,4 +174,7 @@ results <br>
 
 ## trained video 
 The damaged box is marked as box.<br><br>
-https://youtube.com/shorts/2ftsguCluPk
+https://youtube.com/shorts/2ftsguCluPk<br>
+https://github.com/user-attachments/assets/9f7ac7a3-e626-4ccd-a8b4-849e8a823336
+
+
